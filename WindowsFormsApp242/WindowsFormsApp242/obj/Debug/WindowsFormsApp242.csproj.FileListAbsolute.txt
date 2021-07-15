@@ -1,0 +1,9 @@
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\bin\Debug\WindowsFormsApp242.exe.config
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\bin\Debug\WindowsFormsApp242.exe
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\bin\Debug\WindowsFormsApp242.pdb
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.csprojAssemblyReference.cache
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.Form1.resources
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.Properties.Resources.resources
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.csproj.GenerateResource.cache
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.exe
+C:\Users\tarki\source\repos\WindowsFormsApp242\WindowsFormsApp242\obj\Debug\WindowsFormsApp242.pdb
